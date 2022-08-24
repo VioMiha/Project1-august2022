@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "cypress": "^10.6.0"
-  }
+  },
+  "name": "project1-august2022",
+  "description": "Automation Testing",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VioMiha/Project1-august2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VioMiha/Project1-august2022/issues"
+  },
+  "homepage": "https://github.com/VioMiha/Project1-august2022#readme"
 }
